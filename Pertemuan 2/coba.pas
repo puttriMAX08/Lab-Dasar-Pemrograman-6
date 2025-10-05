@@ -43,10 +43,10 @@ begin
     // writeln(not true);
     // writeln(not false);
 
-    writeln(5 and 7);
+    writeln(9 and 2);
     writeln(5 or 7);
-    writeln(5 xor 7);
+    writeln(9 xor 2);
     writeln(not 7);
-    writeln(7 shl 2);
+    writeln(9 shl 2);
     writeln(7 shr 2);
 end.
